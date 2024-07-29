@@ -31,7 +31,7 @@ using Django and React
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,react,java,wpf,python,c,flutter,mysql,django,git,firebase"/><br>
+    <img src="https://skillicons.dev/icons?i=html,css,react,java,python,c,flutter,mysql,django,git,firebase"/><br>
     <img src="https://skillicons.dev/icons?i=vscode,github,aws,figma,docker" /><br>
 </div>
 
