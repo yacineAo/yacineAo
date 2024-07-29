@@ -7,13 +7,10 @@
 <br/>
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently working to Developed and maintained full-stack web applications 
+using Django and React
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+💬 Ask me about **Django, React, Firebase, Flutter, Docker, ... or anything [here](https://aoumara-yacine.netlify.app/#contact)**
 
  </div>
 
