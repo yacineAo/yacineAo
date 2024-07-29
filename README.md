@@ -32,6 +32,7 @@ using Django and React
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,react,java,wpf,python,c#,flutter,mysql,django" />
-    <img src="https://skillicons.dev/icons?i=vscode,github,aws,figma,docker,git,firebase" /><br>
+    <br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,aws,figma,docker,git,firebase" />
 </div>
 
