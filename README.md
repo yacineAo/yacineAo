@@ -32,6 +32,18 @@ using Django and React
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,react,java,python,c,flutter,mysql,django,git,firebase"/><br>
-    <img src="https://skillicons.dev/icons?i=vscode,github,aws,figma,docker,wpf" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,aws,figma,docker" /><br>
 </div>
+<hr/>
+
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
 
