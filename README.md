@@ -18,7 +18,7 @@ using Django and React
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://dz.linkedin.com/in/aoumara-yacine-822246257" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrand.linkedin.com%2Fcontent%2Fbrand%2Fglobal%2Fen_us%2Findex%2Fvisual-identity%2Flogo&psig=AOvVaw1gwIqiiRpfByaoR3o5qD6I&ust=1722346497647000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIC96euuzIcDFQAAAAAdAAAAABAE?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrand.linkedin.com%2Fcontent%2Fbrand%2Fglobal%2Fen_us%2Findex%2Fvisual-identity%2Flogo&psig=AOvVaw1gwIqiiRpfByaoR3o5qD6I&ust=1722346497647000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIC96euuzIcDFQAAAAAdAAAAABAE" target="_blank" />
   </a>
   <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
